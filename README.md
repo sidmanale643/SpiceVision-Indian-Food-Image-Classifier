@@ -1,1 +1,1 @@
-# DesiDish-Detector
+SpiceVision-Indian-Food-Image-Classifier
